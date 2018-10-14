@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/corollari/waspline-reader/master/promo/wasp.png" width="200"></a>
+  <img src="https://raw.githubusercontent.com/corollari/cryptowaifus-extension/master/promo/icon.png" width="200"></a>
   <br>
   CryptoWaifus Extension
   <br>
@@ -17,7 +17,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/corollari/waspline-reader/master/promo/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/corollari/cryptowaifus-extension/master/promo/screenshot.png)
 
 ## Install
 The extension can be installed through [Chrome's Web Store](https://chrome.google.com/webstore/detail/waspline-reader/ndlnnojbbcbdpkccfmcgbopalpbmhbhm) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/waspline-reader/)
