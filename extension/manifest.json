@@ -12,7 +12,8 @@
 			"24": "icons/24.png",
 			"32": "icons/32.png"
 		},
-		"default_title": "CryptoWaifus"
+		"default_title": "CryptoWaifus",
+		"default_popup": "popup/index.html"
 	},
 	"icons": {
 		"16": "icons/16.png",
