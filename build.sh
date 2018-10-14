@@ -13,5 +13,5 @@ while getopts "i" opt; do
       ;;
   esac
 done
-curl https://raw.githubusercontent.com/ethereum/web3.js/develop/dist/web3.js > libs/web3.js 
+browserify extension/contentScripts/twitter.js -o extension/dist/twitter.js
 (cd extension && zip -r ../bundle.zip .)

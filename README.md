@@ -24,7 +24,9 @@ The extension can be installed through [Chrome's Web Store](https://chrome.googl
 
 ## Build
 ```bash
-bash build.sh
+npm install
+#npm run updateWeb3
+npm run build
 ```
 
 ## Credits
