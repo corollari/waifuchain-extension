@@ -7053,7 +7053,7 @@ function createStreamMiddleware() {
 },{}],15:[function(require,module,exports){
 module.exports={
   "CHROME_ID": "nkbihfbeogaeaoehlefnkodbefgpgknn",
-  "FIREFOX_ID":"4f8e3007-2c57-944b-a11b-b518d57714fa"
+  "FIREFOX_ID":"webextension@metamask.io"
 }
 
 },{}],16:[function(require,module,exports){
