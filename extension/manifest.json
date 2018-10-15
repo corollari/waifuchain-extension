@@ -1,5 +1,5 @@
 {
-	"name": "CryptoWaifus",
+	"name": "WaifuChain",
 	"version": "1.0.0",
 	"description": "Display waifus associated with social media profiles",
 	"manifest_version": 2,
@@ -12,7 +12,7 @@
 			"24": "icons/24.png",
 			"32": "icons/32.png"
 		},
-		"default_title": "CryptoWaifus",
+		"default_title": "WaifuChain",
 		"default_popup": "popup/index.html"
 	},
 	"icons": {

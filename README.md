@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/corollari/cryptowaifus-extension/master/promo/icon.png" width="200"></a>
+  <img src="https://raw.githubusercontent.com/corollari/waifuchain-extension/master/promo/icon.png" width="200"></a>
   <br>
-  CryptoWaifus Extension
+  WaifuChain Extension
   <br>
 </h1>
 
-<h4 align="center">Web browser extension for CryptoWaifus</h4>
+<h4 align="center">Web browser extension for WaifuChain</h4>
 
 <p align="center">
   <a href="#install">Install</a> •
@@ -17,7 +17,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/corollari/cryptowaifus-extension/master/promo/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/corollari/waifuchain-extension/master/promo/screenshot.png)
 
 ## Install
 The extension can be installed through [Chrome's Web Store](https://chrome.google.com/webstore/detail/waspline-reader/ndlnnojbbcbdpkccfmcgbopalpbmhbhm) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/waspline-reader/)
