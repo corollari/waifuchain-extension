@@ -13,6 +13,6 @@ while getopts "i" opt; do
       ;;
   esac
 done
-browserify extension/contentScripts/twitter.js -o extension/dist/twitter.js
+browserify extension/contentScripts/twitter/index.js -o extension/dist/twitter.js
 sed -i 's/4f8e3007-2c57-944b-a11b-b518d57714fa/webextension@metamask.io/g' extension/dist/twitter.js
 (cd extension && zip -r ../bundle.zip .)
